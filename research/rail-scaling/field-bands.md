@@ -23,6 +23,18 @@ On each of the 180 source intervals take b(x) to be the negative of the linearly
 
 At x = 2.14 the same row gives σ = 0.8751, enclosing h_c between 0.8751 and 1.0927. These are bounds on the size and location of the switch. The thresholds and jump magnitudes can vary within them. Run `python research/rail-scaling/field-bands.py` from the campaign root to reproduce the table using Python's rational arithmetic.
 
+## Four-square comparison at x = 2.14
+
+Independent floating-point diagonalization of the two winding sectors on the four-square ring gives the following crossings. Each solve used a direct sparse spin-network Hamiltonian, with an eigenvector residual below 10⁻⁸. The last column is the odd-state expectation of mean A at energy equality.
+
+| Largest link spin | Switching field | Polarization jump |
+| ---: | ---: | ---: |
+| 1/2 | 1.185067 | 0.970267 |
+| 1 | 1.084185 | 0.934382 |
+| 3/2 | 1.083180 | 0.933433 |
+
+The half-spin switch lies above the upper bound for the unrestricted four-square ring. It misses the spin-one electric channel on the occupied link. Including that channel moves the computed threshold by about 0.101. The higher-cutoff values fall inside the unrestricted enclosure. Their proximity is a finite-volume numerical observation. Reproduce the rows with `python research/rail-scaling/field-spectrum.py 4 N 2.14`, taking N = 1, 2, 3 in the pinned numerical environment.
+
 ## Two checks on the interpretation
 
 At x = 0 the branches are exactly 0 and 1 − |h|. A bare loop saturates both the minimum electric cost and the maximum polarization. Hence h_c = 1 and the jump is one for every even length. At fixed finite even length, perturbation about the favored simple loop at h near one gives odd energy per square 1 − h − x²[(1/16)/(2+2h) + (3/16)/(14/3+2h)] + O_L(x⁴). The two channels are the zero- and spin-one projections of a single plaquette insertion on the occupied link. Differentiating the analytic branch and using h_c = 1 + 3x²/160 + O_L(x⁴) gives a crossing polarization of 1 − 13x²/800 + O_L(x⁴). This expansion is a finite-volume prediction. The interval bounds above hold uniformly in length.
