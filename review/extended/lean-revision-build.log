@@ -1,0 +1,65 @@
+Build directory: /tmp/su2-ladder-lean.JD4bVmIB
+CertifiedGaps 77b55881495a059ed22123e4e85eaaa8c3faa422
+Lean (version 4.36.0-rc1, x86_64-unknown-linux-gnu, commit c9afcddf514a6772bd4d649f7cfc04eff0b9f15e, Release)
+⚠ [4144/4234] Replayed CertifiedGaps.PurityCriterion
+warning: CertifiedGaps/PurityCriterion.lean: imports `Mathlib.Analysis.SpecialFunctions.Pow.Continuity` from package `mathlib`, which is designed for use with the module system; consider adding `module` to the start of this file
+warning: CertifiedGaps/PurityCriterion.lean: imports `Mathlib.Data.Nat.Log` from package `mathlib`, which is designed for use with the module system; consider adding `module` to the start of this file
+warning: CertifiedGaps/PurityCriterion.lean:317:0: automatically included section variable(s) unused in theorem `CertifiedGaps.spatialPurity_eq_spatialPurityOf`:
+  [∀ (L : ℕ), Nonempty (ι L)]
+consider restructuring your `variable` declarations so that the variables are not in scope or explicitly omit them:
+  omit [∀ (L : ℕ), Nonempty (ι L)] in theorem ...
+
+Note: This linter can be disabled with `set_option linter.unusedSectionVars false`
+warning: CertifiedGaps/PurityCriterion.lean:320:0: automatically included section variable(s) unused in theorem `CertifiedGaps.thermalPurity_eq_thermalPurityOf`:
+  [∀ (L : ℕ), Nonempty (ι L)]
+consider restructuring your `variable` declarations so that the variables are not in scope or explicitly omit them:
+  omit [∀ (L : ℕ), Nonempty (ι L)] in theorem ...
+
+Note: This linter can be disabled with `set_option linter.unusedSectionVars false`
+⚠ [4145/4234] Ran CertifiedGaps.PurityCriterion:irArts
+warning: CertifiedGaps/PurityCriterion.lean: imports `Mathlib.Analysis.SpecialFunctions.Pow.Continuity` from package `mathlib`, which is designed for use with the module system; consider adding `module` to the start of this file
+warning: CertifiedGaps/PurityCriterion.lean: imports `Mathlib.Data.Nat.Log` from package `mathlib`, which is designed for use with the module system; consider adding `module` to the start of this file
+✔ [4562/4594] Built GaugeGaps.LadderEven.Defs (8.4s)
+✔ [4566/4594] Built GaugeGaps.StringTension (11s)
+✔ [4567/4594] Built GaugeGaps.LadderEven.Part4 (38s)
+✔ [4568/4594] Built GaugeGaps.LadderEven.Part3 (39s)
+✔ [4569/4596] Built GaugeGaps.LadderEven.Part1 (44s)
+✔ [4582/4596] Built GaugeGaps.LadderEven.Part2 (50s)
+✔ [4588/4602] Built GaugeGaps.LadderEvenIntervals (2.4s)
+⚠ [4592/4682] Built GaugeGaps.LadderEvenGtOne (5.8s)
+warning: GaugeGaps/LadderEvenGtOne.lean: imports `Mathlib.Analysis.Complex.ExponentialBounds` from package `mathlib`, which is designed for use with the module system; consider adding `module` to the start of this file
+⚠ [4593/4682] Ran GaugeGaps.LadderEvenGtOne:irArts
+warning: GaugeGaps/LadderEvenGtOne.lean: imports `Mathlib.Analysis.Complex.ExponentialBounds` from package `mathlib`, which is designed for use with the module system; consider adding `module` to the start of this file
+⚠ [6524/6536] Built GaugeGaps.TensionIntervals (15s)
+warning: GaugeGaps/TensionIntervals.lean: imports `Mathlib.Analysis.SpecialFunctions.Log.Deriv` from package `mathlib`, which is designed for use with the module system; consider adding `module` to the start of this file
+⚠ [6525/6536] Ran GaugeGaps.TensionIntervals:irArts
+warning: GaugeGaps/TensionIntervals.lean: imports `Mathlib.Analysis.SpecialFunctions.Log.Deriv` from package `mathlib`, which is designed for use with the module system; consider adding `module` to the start of this file
+✔ [6530/6536] Built GaugeGaps.FullSpectrum (3.4s)
+⚠ [6533/6536] Built GaugeGaps.Lemma1Algebra (9.9s)
+warning: GaugeGaps/Lemma1Algebra.lean: imports `Mathlib.LinearAlgebra.UnitaryGroup` from package `mathlib`, which is designed for use with the module system; consider adding `module` to the start of this file
+warning: GaugeGaps/Lemma1Algebra.lean: imports `Mathlib.LinearAlgebra.Matrix.Adjugate` from package `mathlib`, which is designed for use with the module system; consider adding `module` to the start of this file
+warning: GaugeGaps/Lemma1Algebra.lean: imports `Mathlib.Analysis.Complex.Basic` from package `mathlib`, which is designed for use with the module system; consider adding `module` to the start of this file
+warning: GaugeGaps/Lemma1Algebra.lean: imports `Mathlib.Tactic` from package `mathlib`, which is designed for use with the module system; consider adding `module` to the start of this file
+⚠ [6534/6536] Ran GaugeGaps.Lemma1Algebra:irArts
+warning: GaugeGaps/Lemma1Algebra.lean: imports `Mathlib.LinearAlgebra.UnitaryGroup` from package `mathlib`, which is designed for use with the module system; consider adding `module` to the start of this file
+warning: GaugeGaps/Lemma1Algebra.lean: imports `Mathlib.LinearAlgebra.Matrix.Adjugate` from package `mathlib`, which is designed for use with the module system; consider adding `module` to the start of this file
+warning: GaugeGaps/Lemma1Algebra.lean: imports `Mathlib.Analysis.Complex.Basic` from package `mathlib`, which is designed for use with the module system; consider adding `module` to the start of this file
+warning: GaugeGaps/Lemma1Algebra.lean: imports `Mathlib.Tactic` from package `mathlib`, which is designed for use with the module system; consider adding `module` to the start of this file
+✔ [6535/6536] Built GaugeGaps.LadderIntervals (55s)
+Build completed successfully (6536 jobs).
+'GaugeGaps.Full.full_gap_gt_one' depends on axioms: [propext, Classical.choice, Quot.sound]
+'GaugeGaps.Lemma1.trace_mul_inv_su2' depends on axioms: [propext, Classical.choice, Quot.sound]
+'GaugeGaps.WindingContinuation.anchorRows' depends on axioms: [propext, Classical.choice, Quot.sound]
+'GaugeGaps.WindingContinuation.windingContinuation' depends on axioms: [propext, Classical.choice, Quot.sound]
+'GaugeGaps.WindingContinuation.continuationFloor' depends on axioms: [propext, Classical.choice, Quot.sound]
+'GaugeGaps.WindingContinuation.chordFloor' depends on axioms: [propext, Classical.choice, Quot.sound]
+'GaugeGaps.WindingContinuation.highEndpointMargins' depends on axioms: [propext, Classical.choice, Quot.sound]
+'GaugeGaps.WindingContinuation.windingToTwenty' depends on axioms: [propext, Classical.choice, Quot.sound]
+'GaugeGaps.ExtendedGap.gap' depends on axioms: [propext, Classical.choice, Quot.sound]
+/mnt/e/Projects/math-research/campaigns/su2-ladder/review/RefinedTension.lean:7:48: warning: Variable name `h₀` is not explicitly referenced.
+
+Hint: The binding can be removed (if unused) or named `_` (if used implicitly). Alternatively, prefix the name with `_` to silence this warning:
+  [apply] _h₀
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+'GaugeGaps.RefinedTension.refined_winding_floor' depends on axioms: [propext, Classical.choice, Quot.sound]

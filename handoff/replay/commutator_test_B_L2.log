@@ -1,0 +1,2 @@
+   undetected sign flips: [(0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1), (1, 1, 1, 1, 0, 0, 0, 0, -1, -1, -1, -1)]  spectrum change under those flips: -1.0
+L=2 cutoff 9/2 (dim 25298, 7282 inner states, 238944 local configurations, 59864 within 7/2): commutator 8.33e-17; no sign rule 8.33e-17; sign flip detected 59862 of 59864 (smallest effect 0.00e+00), 5% rescaling detected 59864 of 59864 (smallest effect 2.99e-06)

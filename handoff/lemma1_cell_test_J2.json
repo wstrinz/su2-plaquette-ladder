@@ -1,0 +1,22 @@
+{
+ "J": 1.0,
+ "box_dim": 2744,
+ "V_dim": 813,
+ "casimirs_commute": 5.210169978403713e-14,
+ "refl_unitary_on_V": 8.08686451136964e-13,
+ "refl_involution": 8.084644065358847e-13,
+ "refl_hermitian": 3.3415385347379748e-16,
+ "refl_swaps_generators": 1.0332353306404786e-12,
+ "wrong_generator_pairing": 0.29616317407450227,
+ "refl_commutes_with_o": 8.276160554275929e-12,
+ "line_components_hermitian": 1.5515838457795457e-16,
+ "refl_maps_P_to_Q": 5.622899057772976e-14,
+ "wrong_line_pairing": 0.17390298710989335,
+ "V_invariant_under_conjugation": 1.9472605129425675e-15,
+ "real_basis_orthonormal": 7.452021291710542e-11,
+ "real_basis_fixed": 1.2845886025135478e-10,
+ "real_symmetric_ops_imag": 8.687260355522142e-10,
+ "real_symmetric_ops_asym": 1.7374518814726527e-09,
+ "real_antisymmetric_ops_imag": 6.805310630883347e-11,
+ "real_antisymmetric_ops_sym": 1.361060710735807e-10
+}

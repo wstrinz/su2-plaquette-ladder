@@ -1,0 +1,2 @@
+L=2 cutoff 7/2 (dim 7282, 1523 inner states, 59864 local configurations, 9900 within 5/2): commutator 5.55e-17; no sign rule 5.55e-17; sign flip detected 400 of 400 (smallest effect 2.92e-03), 5% rescaling detected 400 of 400 (smallest effect 7.29e-05)
+L=3 cutoff 6/2 (dim 134343, 9092 inner states, 463490 local configurations, 28984 within 4/2): commutator 5.55e-17; no sign rule 2.98e-01; sign flip detected 300 of 300 (smallest effect 4.20e-03), 5% rescaling detected 300 of 300 (smallest effect 1.05e-04)

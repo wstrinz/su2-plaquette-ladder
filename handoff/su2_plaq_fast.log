@@ -1,0 +1,5 @@
+2 2 49 max diff W: 0.0 diag: 0.0
+4 2 1013 max diff W: 0.0 diag: 0.0
+3 2 217 max diff W: 0.0 diag: 0.0
+L=8 J=1: 517157 9664864 13.9 s
+exit 0

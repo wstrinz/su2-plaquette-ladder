@@ -1,0 +1,4 @@
+[
+{"L":2,"J2":7,"Jc":5,"dim":7282,"inner_states":1523,"local_configurations":59864,"within_Jc":9900,"commutator_max":5.551e-17,"control_no_sign_rule":5.551e-17,"control_flips_tried":9900,"control_flips_detected":9898,"control_flip_min_effect":0.000e+00,"control_rescale_detected":9900,"control_rescale_min_effect":1.080e-05},
+{"L":3,"J2":6,"Jc":4,"dim":134343,"inner_states":9092,"local_configurations":463490,"within_Jc":28984,"commutator_max":5.551e-17,"control_no_sign_rule":2.981e-01,"control_flips_tried":28984,"control_flips_detected":28982,"control_flip_min_effect":0.000e+00,"control_rescale_detected":28984,"control_rescale_min_effect":2.635e-05}
+]

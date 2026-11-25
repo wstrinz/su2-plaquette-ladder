@@ -1,0 +1,5 @@
+[
+{"J2":5,"Jc":5,"L":2,"control_no_sign_rule_gram_dev":2.220446049250313e-16,"control_rescaled_detected":18,"control_rescaled_tried":60,"dim":1523,"gram_dev_bottom":2.220446049250313e-16,"gram_dev_top":3.3306690738754696e-16,"n_vectors":69,"n_weights":28,"weight_dev_bottom":1.1102230246251565e-16,"weight_dev_top":1.1102230246251565e-16},
+{"J2":5,"Jc":4,"L":3,"control_no_sign_rule_gram_dev":4.440892098500626e-16,"control_rescaled_detected":25,"control_rescaled_tried":40,"dim":38081,"gram_dev_bottom":4.440892098500626e-16,"gram_dev_top":4.440892098500626e-16,"n_vectors":225,"n_weights":28,"weight_dev_bottom":1.1102230246251565e-16,"weight_dev_top":1.1102230246251565e-16},
+{"J2":4,"Jc":3,"L":4,"control_no_sign_rule_gram_dev":4.440892098500626e-16,"control_rescaled_detected":10,"control_rescaled_tried":20,"dim":148678,"gram_dev_bottom":4.440892098500626e-16,"gram_dev_top":4.440892098500626e-16,"n_vectors":390,"n_weights":17,"weight_dev_bottom":1.1102230246251565e-16,"weight_dev_top":1.1102230246251565e-16}
+]

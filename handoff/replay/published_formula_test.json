@@ -1,0 +1,1 @@
+{"source":"arXiv:2303.14264 supplemental material, plaquette matrix element","comparison":"exact: sign and rational square","runs":[{"L":2,"cutoff2":9,"configurations":238944,"disagree":0},{"L":3,"cutoff2":7,"configurations":1386328,"disagree":0},{"L":4,"cutoff2":5,"configurations":133900,"disagree":0}]}

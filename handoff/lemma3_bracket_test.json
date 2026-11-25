@@ -1,0 +1,488 @@
+[
+ {
+  "jstar": 0.5,
+  "c": 2.0,
+  "lam": 0.5,
+  "beta": 1.5,
+  "ok": true,
+  "slack": 0.08981351006210202,
+  "wrong_variant_ok": true
+ },
+ {
+  "jstar": 0.5,
+  "c": 2.0,
+  "lam": 0.5,
+  "beta": 4.0,
+  "ok": true,
+  "slack": 0.002560999593522008,
+  "wrong_variant_ok": false
+ },
+ {
+  "jstar": 0.5,
+  "c": 2.0,
+  "lam": 2.0,
+  "beta": 1.5,
+  "ok": true,
+  "slack": 1.6899795514773772,
+  "wrong_variant_ok": true
+ },
+ {
+  "jstar": 0.5,
+  "c": 2.0,
+  "lam": 2.0,
+  "beta": 4.0,
+  "ok": true,
+  "slack": 2.293542493671818,
+  "wrong_variant_ok": true
+ },
+ {
+  "jstar": 0.5,
+  "c": 2.0,
+  "lam": 5.0,
+  "beta": 1.5,
+  "ok": true,
+  "slack": 7.519784175438099,
+  "wrong_variant_ok": true
+ },
+ {
+  "jstar": 0.5,
+  "c": 2.0,
+  "lam": 5.0,
+  "beta": 4.0,
+  "ok": true,
+  "slack": 18.031046457426363,
+  "wrong_variant_ok": true
+ },
+ {
+  "jstar": 0.5,
+  "c": 6.0,
+  "lam": 0.5,
+  "beta": 1.5,
+  "ok": true,
+  "slack": 3.6196552335166534,
+  "wrong_variant_ok": true
+ },
+ {
+  "jstar": 0.5,
+  "c": 6.0,
+  "lam": 0.5,
+  "beta": 4.0,
+  "ok": true,
+  "slack": 7.90022970293675,
+  "wrong_variant_ok": true
+ },
+ {
+  "jstar": 0.5,
+  "c": 6.0,
+  "lam": 2.0,
+  "beta": 1.5,
+  "ok": true,
+  "slack": 7.41031218993899,
+  "wrong_variant_ok": true
+ },
+ {
+  "jstar": 0.5,
+  "c": 6.0,
+  "lam": 2.0,
+  "beta": 4.0,
+  "ok": true,
+  "slack": 18.09054252369539,
+  "wrong_variant_ok": true
+ },
+ {
+  "jstar": 0.5,
+  "c": 6.0,
+  "lam": 5.0,
+  "beta": 1.5,
+  "ok": true,
+  "slack": 13.153043567427206,
+  "wrong_variant_ok": true
+ },
+ {
+  "jstar": 0.5,
+  "c": 6.0,
+  "lam": 5.0,
+  "beta": 4.0,
+  "ok": true,
+  "slack": 33.462691115164034,
+  "wrong_variant_ok": true
+ },
+ {
+  "jstar": 0.5,
+  "c": 12.0,
+  "lam": 0.5,
+  "beta": 1.5,
+  "ok": true,
+  "slack": 12.59254547864091,
+  "wrong_variant_ok": true
+ },
+ {
+  "jstar": 0.5,
+  "c": 12.0,
+  "lam": 0.5,
+  "beta": 4.0,
+  "ok": true,
+  "slack": 31.899858870514333,
+  "wrong_variant_ok": true
+ },
+ {
+  "jstar": 0.5,
+  "c": 12.0,
+  "lam": 2.0,
+  "beta": 1.5,
+  "ok": true,
+  "slack": 16.40969825668371,
+  "wrong_variant_ok": true
+ },
+ {
+  "jstar": 0.5,
+  "c": 12.0,
+  "lam": 2.0,
+  "beta": 4.0,
+  "ok": true,
+  "slack": 42.09054250877426,
+  "wrong_variant_ok": true
+ },
+ {
+  "jstar": 0.5,
+  "c": 12.0,
+  "lam": 5.0,
+  "beta": 1.5,
+  "ok": true,
+  "slack": 22.153039774988926,
+  "wrong_variant_ok": true
+ },
+ {
+  "jstar": 0.5,
+  "c": 12.0,
+  "lam": 5.0,
+  "beta": 4.0,
+  "ok": true,
+  "slack": 57.46269111516401,
+  "wrong_variant_ok": true
+ },
+ {
+  "jstar": 1.0,
+  "c": 2.0,
+  "lam": 0.5,
+  "beta": 1.5,
+  "ok": true,
+  "slack": 0.0001789453524649986,
+  "wrong_variant_ok": true
+ },
+ {
+  "jstar": 1.0,
+  "c": 2.0,
+  "lam": 0.5,
+  "beta": 4.0,
+  "ok": true,
+  "slack": 0.00014984914843851248,
+  "wrong_variant_ok": true
+ },
+ {
+  "jstar": 1.0,
+  "c": 2.0,
+  "lam": 2.0,
+  "beta": 1.5,
+  "ok": true,
+  "slack": 0.01891757488344545,
+  "wrong_variant_ok": true
+ },
+ {
+  "jstar": 1.0,
+  "c": 2.0,
+  "lam": 2.0,
+  "beta": 4.0,
+  "ok": true,
+  "slack": 1.5795227019928788,
+  "wrong_variant_ok": true
+ },
+ {
+  "jstar": 1.0,
+  "c": 2.0,
+  "lam": 5.0,
+  "beta": 1.5,
+  "ok": true,
+  "slack": 2.8258241088909095,
+  "wrong_variant_ok": true
+ },
+ {
+  "jstar": 1.0,
+  "c": 2.0,
+  "lam": 5.0,
+  "beta": 4.0,
+  "ok": true,
+  "slack": 16.714916706622454,
+  "wrong_variant_ok": true
+ },
+ {
+  "jstar": 1.0,
+  "c": 6.0,
+  "lam": 0.5,
+  "beta": 1.5,
+  "ok": true,
+  "slack": 0.048390614096268464,
+  "wrong_variant_ok": true
+ },
+ {
+  "jstar": 1.0,
+  "c": 6.0,
+  "lam": 0.5,
+  "beta": 4.0,
+  "ok": true,
+  "slack": 7.152780622648809,
+  "wrong_variant_ok": true
+ },
+ {
+  "jstar": 1.0,
+  "c": 6.0,
+  "lam": 2.0,
+  "beta": 1.5,
+  "ok": true,
+  "slack": 1.1808212548678407,
+  "wrong_variant_ok": true
+ },
+ {
+  "jstar": 1.0,
+  "c": 6.0,
+  "lam": 2.0,
+  "beta": 4.0,
+  "ok": true,
+  "slack": 17.342681298169648,
+  "wrong_variant_ok": true
+ },
+ {
+  "jstar": 1.0,
+  "c": 6.0,
+  "lam": 5.0,
+  "beta": 1.5,
+  "ok": true,
+  "slack": 6.558109763454771,
+  "wrong_variant_ok": true
+ },
+ {
+  "jstar": 1.0,
+  "c": 6.0,
+  "lam": 5.0,
+  "beta": 4.0,
+  "ok": true,
+  "slack": 32.7148298750328,
+  "wrong_variant_ok": true
+ },
+ {
+  "jstar": 1.0,
+  "c": 12.0,
+  "lam": 0.5,
+  "beta": 1.5,
+  "ok": true,
+  "slack": 5.9982974805500495,
+  "wrong_variant_ok": true
+ },
+ {
+  "jstar": 1.0,
+  "c": 12.0,
+  "lam": 0.5,
+  "beta": 4.0,
+  "ok": true,
+  "slack": 31.15199763038312,
+  "wrong_variant_ok": true
+ },
+ {
+  "jstar": 1.0,
+  "c": 12.0,
+  "lam": 2.0,
+  "beta": 1.5,
+  "ok": true,
+  "slack": 9.813022282962695,
+  "wrong_variant_ok": true
+ },
+ {
+  "jstar": 1.0,
+  "c": 12.0,
+  "lam": 2.0,
+  "beta": 4.0,
+  "ok": true,
+  "slack": 41.34268126864304,
+  "wrong_variant_ok": true
+ },
+ {
+  "jstar": 1.0,
+  "c": 12.0,
+  "lam": 5.0,
+  "beta": 1.5,
+  "ok": true,
+  "slack": 15.556309312367686,
+  "wrong_variant_ok": true
+ },
+ {
+  "jstar": 1.0,
+  "c": 12.0,
+  "lam": 5.0,
+  "beta": 4.0,
+  "ok": true,
+  "slack": 56.71482987503279,
+  "wrong_variant_ok": true
+ },
+ {
+  "jstar": 1.5,
+  "c": 2.0,
+  "lam": 0.5,
+  "beta": 1.5,
+  "ok": true,
+  "slack": 2.6351160245823063e-07,
+  "wrong_variant_ok": true
+ },
+ {
+  "jstar": 1.5,
+  "c": 2.0,
+  "lam": 0.5,
+  "beta": 4.0,
+  "ok": true,
+  "slack": 0.0001436634589638562,
+  "wrong_variant_ok": true
+ },
+ {
+  "jstar": 1.5,
+  "c": 2.0,
+  "lam": 2.0,
+  "beta": 1.5,
+  "ok": true,
+  "slack": 0.00017372937845032085,
+  "wrong_variant_ok": false
+ },
+ {
+  "jstar": 1.5,
+  "c": 2.0,
+  "lam": 2.0,
+  "beta": 4.0,
+  "ok": true,
+  "slack": 1.5747609865356478,
+  "wrong_variant_ok": true
+ },
+ {
+  "jstar": 1.5,
+  "c": 2.0,
+  "lam": 5.0,
+  "beta": 1.5,
+  "ok": true,
+  "slack": 0.13920903957827646,
+  "wrong_variant_ok": false
+ },
+ {
+  "jstar": 1.5,
+  "c": 2.0,
+  "lam": 5.0,
+  "beta": 4.0,
+  "ok": true,
+  "slack": 16.714829953787255,
+  "wrong_variant_ok": true
+ },
+ {
+  "jstar": 1.5,
+  "c": 6.0,
+  "lam": 0.5,
+  "beta": 1.5,
+  "ok": true,
+  "slack": 4.7171011082047355e-05,
+  "wrong_variant_ok": true
+ },
+ {
+  "jstar": 1.5,
+  "c": 6.0,
+  "lam": 0.5,
+  "beta": 4.0,
+  "ok": true,
+  "slack": 7.152780621544555,
+  "wrong_variant_ok": true
+ },
+ {
+  "jstar": 1.5,
+  "c": 6.0,
+  "lam": 2.0,
+  "beta": 1.5,
+  "ok": true,
+  "slack": 0.002182555653017207,
+  "wrong_variant_ok": true
+ },
+ {
+  "jstar": 1.5,
+  "c": 6.0,
+  "lam": 2.0,
+  "beta": 4.0,
+  "ok": true,
+  "slack": 17.342681298033117,
+  "wrong_variant_ok": true
+ },
+ {
+  "jstar": 1.5,
+  "c": 6.0,
+  "lam": 5.0,
+  "beta": 1.5,
+  "ok": true,
+  "slack": 0.5230295042052794,
+  "wrong_variant_ok": true
+ },
+ {
+  "jstar": 1.5,
+  "c": 6.0,
+  "lam": 5.0,
+  "beta": 4.0,
+  "ok": true,
+  "slack": 32.7148298750328,
+  "wrong_variant_ok": true
+ },
+ {
+  "jstar": 1.5,
+  "c": 12.0,
+  "lam": 0.5,
+  "beta": 1.5,
+  "ok": true,
+  "slack": 0.32356034717523197,
+  "wrong_variant_ok": true
+ },
+ {
+  "jstar": 1.5,
+  "c": 12.0,
+  "lam": 0.5,
+  "beta": 4.0,
+  "ok": true,
+  "slack": 31.15199763038312,
+  "wrong_variant_ok": true
+ },
+ {
+  "jstar": 1.5,
+  "c": 12.0,
+  "lam": 2.0,
+  "beta": 1.5,
+  "ok": true,
+  "slack": 2.910890120895979,
+  "wrong_variant_ok": true
+ },
+ {
+  "jstar": 1.5,
+  "c": 12.0,
+  "lam": 2.0,
+  "beta": 4.0,
+  "ok": true,
+  "slack": 41.34268126864304,
+  "wrong_variant_ok": true
+ },
+ {
+  "jstar": 1.5,
+  "c": 12.0,
+  "lam": 5.0,
+  "beta": 1.5,
+  "ok": true,
+  "slack": 8.598451969245708,
+  "wrong_variant_ok": true
+ },
+ {
+  "jstar": 1.5,
+  "c": 12.0,
+  "lam": 5.0,
+  "beta": 4.0,
+  "ok": true,
+  "slack": 56.71482987503279,
+  "wrong_variant_ok": true
+ }
+]
